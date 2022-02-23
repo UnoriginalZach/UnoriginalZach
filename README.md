@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnoriginalZach
 - 👀 I’m interested in ... css, html, JS, JAVA, python
 - 🌱 I’m currently learning ...css, html, JS, JAVA
-- 💞️ I’m looking to collaborate on ...css
+- 💞️ I’m looking to collaborate on ...JAVA
 - 📫 How to reach me ... of GitHub
 
 <!---
