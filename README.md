@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UnoriginalZach
-- 👀 I’m interested in ... css, html, JS, JAVA, python
-- 🌱 I’m currently learning ...css, html, JS, JAVA
+- 👀 I’m interested in ... JAVA
+- 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...JAVA
-- 📫 How to reach me ... of GitHub
+- 📫 How to reach me ... GitHub
 
 <!---
 UnoriginalZach/UnoriginalZach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
